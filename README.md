@@ -12,7 +12,7 @@ Large Language Models (LLMs) excel at numerous tasks but often struggle with **c
 Calibration errors occur when a model's predicted confidence diverges from its actual accuracy, potentially misleading users. For instance, a model might assert 80% confidence in a fact but be incorrect. By measuring the **Expected Calibration Error (ECE)**, this project quantifies the discrepancy between a model's predicted confidence and its actual correctness.
 
 <div align="center">
-  <img src="images/calibration_histograms.png" alt="Calibration Histogram" height="60%">
+  <img src="images/calibration_histograms.png" alt="Calibration Histogram" height="36%" width="36%">
   <p>Example of overconfidence in LLMs. The model predicts "<i>Geoffrey Hinton</i>" with 93% confidence for the wrong answer to a factual question.</p>
 </div>
 
