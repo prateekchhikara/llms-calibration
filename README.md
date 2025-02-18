@@ -104,4 +104,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📧
 
-For questions and feedback, please [open an issue](https://github.com/prateekchhikara/llms-calibration/issues) or contact me directly at <a href="mailto:prateekchhikara24@gmail.com">prateekchhikara24@gmail.com</a>.
+For questions and feedback, please contact me directly at <a href="mailto:prateekchhikara24@gmail.com">prateekchhikara24@gmail.com</a>.
