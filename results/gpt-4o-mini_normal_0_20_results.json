@@ -1,0 +1,142 @@
+{
+  "0": {
+    "question": "Who received the IEEE Frank Rosenblatt Award in 2010?",
+    "gold_answer": "Michio Sugeno",
+    "predicted_answer": "Geoffrey Hinton",
+    "confidence": 85,
+    "output": 0
+  },
+  "1": {
+    "question": "Who was awarded the Oceanography Society's Jerlov Award in 2018?",
+    "gold_answer": "Annick Bricaud",
+    "predicted_answer": "The Oceanography Society's Jerlov Award in 2018 was awarded to Dr. John H. Steele.",
+    "confidence": 85,
+    "output": 0
+  },
+  "2": {
+    "question": "What's the name of the women's liberal arts college in Cambridge, Massachusetts?",
+    "gold_answer": "Radcliffe College",
+    "predicted_answer": "Smith College",
+    "confidence": 75,
+    "output": 0
+  },
+  "3": {
+    "question": "In whose honor was the Leipzig 1877 tournament organized?",
+    "gold_answer": "Adolf Anderssen",
+    "predicted_answer": "The Leipzig 1877 tournament was organized in honor of the German chess player Adolf Anderssen.",
+    "confidence": 85,
+    "output": 1
+  },
+  "4": {
+    "question": "According to Karl K\u00fcchler, what did Empress Elizabeth of Austria's favorite sculpture depict, which was made for her villa Achilleion at Corfu?",
+    "gold_answer": "Poet Henrich Heine.",
+    "predicted_answer": "According to Karl K\u00fcchler, Empress Elizabeth of Austria's favorite sculpture depicted a 'Dying Achilles,' which was made for her villa Achilleion at Corfu.",
+    "confidence": 75,
+    "output": 0
+  },
+  "5": {
+    "question": "How much money, in euros, was the surgeon held responsible for Stella Obasanjo's death ordered to pay her son?",
+    "gold_answer": "120,000",
+    "predicted_answer": "The surgeon was ordered to pay 1.5 million euros to Stella Obasanjo's son.",
+    "confidence": 85,
+    "output": 0
+  },
+  "6": {
+    "question": "What were the month and year when Obama told Christianity Today, \"I am a Christian, and I am a devout Christian. I believe in the redemptive death and resurrection of Jesus Christ\"?",
+    "gold_answer": "January 2008",
+    "predicted_answer": "Obama made this statement in the December 2006 issue of Christianity Today.",
+    "confidence": 85,
+    "output": 0
+  },
+  "7": {
+    "question": "Who appointed the Chief Justice of India, Mirza Hameedullah Beg, in 1977?",
+    "gold_answer": "Fakhruddin Ali Ahmed",
+    "predicted_answer": "The Chief Justice of India, Mirza Hameedullah Beg, was appointed by the then President of India, Giani Zail Singh, in 1977.",
+    "confidence": 85,
+    "output": 0
+  },
+  "8": {
+    "question": "What is the name of the former Prime Minister of Iceland who worked as a cabin crew member until 1971?",
+    "gold_answer": "J\u00f3hanna Sigur\u00f0ard\u00f3ttir",
+    "predicted_answer": "Geir Haarde",
+    "confidence": 75,
+    "output": 0
+  },
+  "9": {
+    "question": "To whom did Mehbooba Mufti Sayed contest the 2019 Lok Sabha elections and lose?",
+    "gold_answer": "Hasnain Masoodi",
+    "predicted_answer": "Mehbooba Mufti Sayed contested the 2019 Lok Sabha elections against the BJP candidate, Jitendra Singh, in the Anantnag constituency and lost.",
+    "confidence": 85,
+    "output": 0
+  },
+  "10": {
+    "question": "How many fouls did Inter commit in the Champions League final match between Bayern and Inter on May 23, 2010?",
+    "gold_answer": "13",
+    "predicted_answer": "Inter committed 19 fouls in the Champions League final match against Bayern Munich on May 23, 2010.",
+    "confidence": 85,
+    "output": 0
+  },
+  "11": {
+    "question": "What year did the Lego part with ID gal56 first release?",
+    "gold_answer": "2002",
+    "predicted_answer": "The Lego part with ID gal56 was first released in 2003.",
+    "confidence": 75,
+    "output": 0
+  },
+  "12": {
+    "question": "In which year did the Japanese scientist Koichi Mizushima receive the Kato Memorial Prize?",
+    "gold_answer": "1999",
+    "predicted_answer": "Koichi Mizushima received the Kato Memorial Prize in 2018.",
+    "confidence": 75,
+    "output": 0
+  },
+  "13": {
+    "question": "In which year did Melbourne's Monash Gallery of Art (MGA) rebrand and become the Museum of Australian Photography (MAPh)?",
+    "gold_answer": "2023",
+    "predicted_answer": "The Monash Gallery of Art (MGA) rebranded and became the Museum of Australian Photography (MAPh) in 2021.",
+    "confidence": 75,
+    "output": 0
+  },
+  "14": {
+    "question": "Who requested the Federal Aviation Administration (FAA) implement a 900 sq mi (2,300 km2) temporary flight restriction zone over the operations areas of the Deepwater Horizon?",
+    "gold_answer": "The Coast Guard",
+    "predicted_answer": "The request for the FAA to implement a 900 sq mi temporary flight restriction zone over the operations areas of the Deepwater Horizon was made by the U.S. Coast Guard.",
+    "confidence": 85,
+    "output": 1
+  },
+  "15": {
+    "question": "What signature piece of the MOBA did Scott Wilson discover on the curb between two trash cans?",
+    "gold_answer": "Lucy in the Field with Flowers",
+    "predicted_answer": "The signature piece of the MOBA that Scott Wilson discovered on the curb between two trash cans is the 'Dota 2' item known as the 'Aegis of the Immortal.'",
+    "confidence": 30,
+    "output": 0
+  },
+  "16": {
+    "question": "What player scored all the conversions for Spain in the rugby match between Spain and Romania that was part of the 2022 Rugby Europe Championship on February 27, 2022?",
+    "gold_answer": "Manuel Ordas",
+    "predicted_answer": "I do not have specific information on the player who scored all the conversions for Spain in the rugby match against Romania on February 27, 2022.",
+    "confidence": 20,
+    "output": -1
+  },
+  "17": {
+    "question": "What is the surname of the psychiatrist who prescribes medication for Marie Hanson for her periodic blackouts in Season 1, Episode 20 of Ally McBeal?",
+    "gold_answer": "Peters",
+    "predicted_answer": "Dr. Greg Butters",
+    "confidence": 85,
+    "output": 0
+  },
+  "18": {
+    "question": "What is the British-American kickboxer Andrew Tate's kickboxing name?",
+    "gold_answer": "King cobra",
+    "predicted_answer": "Andrew Tate's kickboxing name is 'Cobra'.",
+    "confidence": 85,
+    "output": 0
+  },
+  "19": {
+    "question": "What position was John Gilbert Layton appointed to in Quebec from 1969 until 1970?",
+    "gold_answer": " Quebec Youth Parliament prime minister",
+    "predicted_answer": "John Gilbert Layton was appointed as the Chief Electoral Officer of Quebec from 1969 until 1970.",
+    "confidence": 75,
+    "output": 0
+  }
+}

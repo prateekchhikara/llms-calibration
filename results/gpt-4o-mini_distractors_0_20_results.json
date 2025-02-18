@@ -1,0 +1,142 @@
+{
+  "0": {
+    "question": "Who received the IEEE Frank Rosenblatt Award in 2010?",
+    "gold_answer": "Michio Sugeno",
+    "predicted_answer": "Geoffrey Hinton",
+    "confidence": 85,
+    "output": 0
+  },
+  "1": {
+    "question": "Who was awarded the Oceanography Society's Jerlov Award in 2018?",
+    "gold_answer": "Annick Bricaud",
+    "predicted_answer": "Annick Bricaud",
+    "confidence": 85,
+    "output": 1
+  },
+  "2": {
+    "question": "What's the name of the women's liberal arts college in Cambridge, Massachusetts?",
+    "gold_answer": "Radcliffe College",
+    "predicted_answer": "Radcliffe College",
+    "confidence": 75,
+    "output": 1
+  },
+  "3": {
+    "question": "In whose honor was the Leipzig 1877 tournament organized?",
+    "gold_answer": "Adolf Anderssen",
+    "predicted_answer": "Wilhelm Steinitz",
+    "confidence": 85,
+    "output": 0
+  },
+  "4": {
+    "question": "According to Karl K\u00fcchler, what did Empress Elizabeth of Austria's favorite sculpture depict, which was made for her villa Achilleion at Corfu?",
+    "gold_answer": "Poet Henrich Heine.",
+    "predicted_answer": "Poet Henrich Heine.",
+    "confidence": 70,
+    "output": 1
+  },
+  "5": {
+    "question": "How much money, in euros, was the surgeon held responsible for Stella Obasanjo's death ordered to pay her son?",
+    "gold_answer": "120,000",
+    "predicted_answer": "150,000",
+    "confidence": 75,
+    "output": 0
+  },
+  "6": {
+    "question": "What were the month and year when Obama told Christianity Today, \"I am a Christian, and I am a devout Christian. I believe in the redemptive death and resurrection of Jesus Christ\"?",
+    "gold_answer": "January 2008",
+    "predicted_answer": "January 2008",
+    "confidence": 85,
+    "output": 1
+  },
+  "7": {
+    "question": "Who appointed the Chief Justice of India, Mirza Hameedullah Beg, in 1977?",
+    "gold_answer": "Fakhruddin Ali Ahmed",
+    "predicted_answer": "Fakhruddin Ali Ahmed",
+    "confidence": 85,
+    "output": 1
+  },
+  "8": {
+    "question": "What is the name of the former Prime Minister of Iceland who worked as a cabin crew member until 1971?",
+    "gold_answer": "J\u00f3hanna Sigur\u00f0ard\u00f3ttir",
+    "predicted_answer": "J\u00f3hanna Sigur\u00f0ard\u00f3ttir",
+    "confidence": 85,
+    "output": 1
+  },
+  "9": {
+    "question": "To whom did Mehbooba Mufti Sayed contest the 2019 Lok Sabha elections and lose?",
+    "gold_answer": "Hasnain Masoodi",
+    "predicted_answer": "Hasnain Masoodi",
+    "confidence": 85,
+    "output": 1
+  },
+  "10": {
+    "question": "How many fouls did Inter commit in the Champions League final match between Bayern and Inter on May 23, 2010?",
+    "gold_answer": "13",
+    "predicted_answer": "15",
+    "confidence": 75,
+    "output": 0
+  },
+  "11": {
+    "question": "What year did the Lego part with ID gal56 first release?",
+    "gold_answer": "2002",
+    "predicted_answer": "2002",
+    "confidence": 75,
+    "output": 1
+  },
+  "12": {
+    "question": "In which year did the Japanese scientist Koichi Mizushima receive the Kato Memorial Prize?",
+    "gold_answer": "1999",
+    "predicted_answer": "1998",
+    "confidence": 75,
+    "output": 0
+  },
+  "13": {
+    "question": "In which year did Melbourne's Monash Gallery of Art (MGA) rebrand and become the Museum of Australian Photography (MAPh)?",
+    "gold_answer": "2023",
+    "predicted_answer": "2022",
+    "confidence": 85,
+    "output": 0
+  },
+  "14": {
+    "question": "Who requested the Federal Aviation Administration (FAA) implement a 900 sq mi (2,300 km2) temporary flight restriction zone over the operations areas of the Deepwater Horizon?",
+    "gold_answer": "The Coast Guard",
+    "predicted_answer": "The Coast Guard",
+    "confidence": 85,
+    "output": 1
+  },
+  "15": {
+    "question": "What signature piece of the MOBA did Scott Wilson discover on the curb between two trash cans?",
+    "gold_answer": "Lucy in the Field with Flowers",
+    "predicted_answer": "Whispers of the Void",
+    "confidence": 75,
+    "output": 0
+  },
+  "16": {
+    "question": "What player scored all the conversions for Spain in the rugby match between Spain and Romania that was part of the 2022 Rugby Europe Championship on February 27, 2022?",
+    "gold_answer": "Manuel Ordas",
+    "predicted_answer": "Jos\u00e9 Gonz\u00e1lez",
+    "confidence": 75,
+    "output": 0
+  },
+  "17": {
+    "question": "What is the surname of the psychiatrist who prescribes medication for Marie Hanson for her periodic blackouts in Season 1, Episode 20 of Ally McBeal?",
+    "gold_answer": "Peters",
+    "predicted_answer": "Peters",
+    "confidence": 75,
+    "output": 1
+  },
+  "18": {
+    "question": "What is the British-American kickboxer Andrew Tate's kickboxing name?",
+    "gold_answer": "King cobra",
+    "predicted_answer": "King cobra",
+    "confidence": 85,
+    "output": 1
+  },
+  "19": {
+    "question": "What position was John Gilbert Layton appointed to in Quebec from 1969 until 1970?",
+    "gold_answer": " Quebec Youth Parliament prime minister",
+    "predicted_answer": "Minister of Education for Quebec",
+    "confidence": 85,
+    "output": 0
+  }
+}
