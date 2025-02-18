@@ -53,8 +53,8 @@ Follow these steps to set up the project:
 
 4. **Set Up Environment Variables:**
     ```bash
-    cp .env.example .env
-    # Edit .env with your API keys
+    OPENAI_API_KEY="your_openai_api_key"
+    GROQ_API_KEY="your_groq_api_key"
     ```
 
 ## Usage 🚀
